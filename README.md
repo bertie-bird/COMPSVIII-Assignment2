@@ -87,3 +87,8 @@ This project is for educational purposes.
 ---
 
 *Built with ❤️ by the TechFlow Solutions team*
+
+## Addition from the Student
+- Project was simple to follow when walking through the steps
+- I did get stuck with deleting the branches locally but I think I figured it out
+- Learned new github terms for my terminal
